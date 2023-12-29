@@ -8,6 +8,20 @@ When you create a repository from this template, a series of [Issues](https://do
 
 The entire project can be run by opening [`game/index.html`](game/index.html) in a browser. All of the 3rd party dependencies like Babylon are using a CDN so you do not need Node or a local developer environment.
 
+## Game Art & Design
+
+![Game Aesthetics](game/img/art-design.png)
+
+
+### How to play
+
+Press any key on you keyboard to play. This will show a cube free falling on the screen. To control the level of the cube on screen, continuously press any key on the keyboard.
+The rate of pressing will determine how high or low the cube will go.
+
+### Scoring
+
+For as long as the cube hasn't gone too high (where it is written Score) or too low (beyond the grey background) and hasn't hit any obstacle, then the score will be increased.
+
 ## 🧙‍ New Open Sourcerers 
 If you're new to GitHub you can get started by creating a new repository by clicking `Use this template` and then selecting `Create a new repository` to create a copy of this repository into your own GitHub account. This is where you can make your own changes!
 
